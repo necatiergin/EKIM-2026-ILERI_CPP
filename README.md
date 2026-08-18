@@ -8,7 +8,7 @@
 
 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br>
 
-📅 Kurs __05 Ekim 2026 Pazartesi__ günü başlayacaktır. <br>
+📅 Kurs __03 Ekim 2026 Cumartesi__ günü başlayacaktır. <br>
 
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09:00 - 13.00__ saatleri arasında yapılacaktır.<br>
 Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden izleyebilirler.
