@@ -20,12 +20,15 @@
 **Kurs ücreti 2 taksit olarak ödenebilir**.<br>
 
 ⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
-<!--
+
 ## Kursla ilgili bağlantılar:
+&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/VopntRa3R7uFEzw7-8oU5w)
+<!--
+
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-Ileri-C-Advanced-C-Kursu/blob/main/kurs_tanitimi.md)<br>
 &#128279; [Kursun Eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
-&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0pdu-sqz8iGNaa0808LlzeNBCrKbS9nYbq)
+
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/MART-2025-ILERI-CPP/blob/main/ileri_cpp_gorsel.png)
 -->
