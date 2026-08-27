@@ -23,6 +23,8 @@
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/VopntRa3R7uFEzw7-8oU5w)
+
+![kurs tanıtım görseli](https://github.com/necatiergin/EKIM-2026-ILERI_CPP/blob/main/ileri_cpp_gorsel.jpg)
 <!--
 
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-Ileri-C-Advanced-C-Kursu/blob/main/kurs_tanitimi.md)<br>
@@ -30,6 +32,6 @@
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
 
 
-![kurs tanıtım görseli](https://github.com/necatiergin/MART-2025-ILERI-CPP/blob/main/ileri_cpp_gorsel.png)
+
 -->
 
