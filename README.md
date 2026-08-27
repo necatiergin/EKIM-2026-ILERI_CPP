@@ -22,8 +22,7 @@
 ⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
 
 ## Kursla ilgili bağlantılar:
-&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]<br>
-(https://us02web.zoom.us/meeting/register/VopntRa3R7uFEzw7-8oU5w)<br>
+&#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.(https://us02web.zoom.us/meeting/register/VopntRa3R7uFEzw7-8oU5w)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/EKIM-2026-ILERI_CPP/blob/main/ileri_cpp_gorsel.jpg)
