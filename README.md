@@ -9,13 +9,13 @@
 
 160 saatlik eğitim sonunda katılımcıların;
 
-• karmaşık Modern C++ kodlarını çok daha rahat okuyup analiz edebilmesi,
-• dilin ince ayrıntılarını ve bunların kod üzerindeki sonuçlarını daha iyi kavraması,
-• generic programming ve template tekniklerini daha etkin kullanabilmesi,
-• standart kütüphanenin sunduğu olanaklardan daha fazla yararlanabilmesi,
-• performans, kaynak yönetimi, tür güvenliği ve soyutlama arasındaki tercihleri daha bilinçli yapabilmesi,
-• modern C++ idiomlarını ve ileri programlama tekniklerini üretim kodunda doğru yerde kullanabilmesi,
-• kod incelemelerinde ve teknik tasarım kararlarında daha güçlü bir C++ perspektifi geliştirmesi
+• karmaşık Modern C++ kodlarını çok daha rahat okuyup analiz edebilmesi, <br>
+• dilin ince ayrıntılarını ve bunların kod üzerindeki sonuçlarını daha iyi kavraması,<br>
+• generic programming ve template tekniklerini daha etkin kullanabilmesi,<br>
+• standart kütüphanenin sunduğu olanaklardan daha fazla yararlanabilmesi,<br>
+• performans, kaynak yönetimi, tür güvenliği ve soyutlama arasındaki tercihleri daha bilinçli yapabilmesi,<br>
+• modern C++ idiomlarını ve ileri programlama tekniklerini üretim kodunda doğru yerde kullanabilmesi,<br>
+• kod incelemelerinde ve teknik tasarım kararlarında daha güçlü bir C++ perspektifi geliştirmesi<br>
 
 hedefleniyor.
 
