@@ -1,6 +1,23 @@
 ## Online İleri C++ (Advanced C++) Kursu
 
-🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni tekniklerle ve C++17/20/23 ile gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır. 
+🎯 C++'ı kullanabilmek ile C++'a gerçekten hâkim olmak arasında önemli bir mesafe var.
+3 Ekim'de başlayacak 160 saatlik İleri C++ Kursu, Modern C++ ile hâlihazırda profesyonel olarak yazılım geliştiren, ancak dil ve standart kütüphane üzerindeki hâkimiyetini çok daha ileri bir seviyeye taşımak isteyen programcılar için hazırlandı.
+
+🎯 Bu bir C++'a giriş ya da Modern C++'a geçiş eğitimi değil. Kursun başlangıç noktası zaten ortalama bir C++ programcısının bilgi düzeyi.
+
+🎯 Eğitimin temel hedefi, katılımcının yalnızca daha fazla C++ özelliği öğrenmesi değil; dili daha derin anlaması, yazdığı ve okuduğu kodu daha doğru değerlendirebilmesi ve karşılaştığı tasarım problemlerinde C++'ın sunduğu araçlar arasından bilinçli seçimler yapabilmesi.
+
+160 saatlik eğitim sonunda katılımcıların;
+
+• karmaşık Modern C++ kodlarını çok daha rahat okuyup analiz edebilmesi,
+• dilin ince ayrıntılarını ve bunların kod üzerindeki sonuçlarını daha iyi kavraması,
+• generic programming ve template tekniklerini daha etkin kullanabilmesi,
+• standart kütüphanenin sunduğu olanaklardan daha fazla yararlanabilmesi,
+• performans, kaynak yönetimi, tür güvenliği ve soyutlama arasındaki tercihleri daha bilinçli yapabilmesi,
+• modern C++ idiomlarını ve ileri programlama tekniklerini üretim kodunda doğru yerde kullanabilmesi,
+• kod incelemelerinde ve teknik tasarım kararlarında daha güçlü bir C++ perspektifi geliştirmesi
+
+hedefleniyor.
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br>
 
@@ -8,7 +25,7 @@
 
 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br>
 
-📅 Kurs __03 Ekim 2026 Cumartesi__ günü başlayacaktır. <br>
+📅 Kurs __03 Ekim 2026 Cumartesi__ günü başlayacak. <br>
 
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __09:00 - 13.00__ saatleri arasında yapılacaktır.<br>
 Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden izleyebilirler.
